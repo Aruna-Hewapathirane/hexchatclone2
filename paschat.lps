@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="13"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="paschat.lpr"/>
+        <UsageCount Value="32"/>
+      </Unit>
+      <Unit>
+        <Filename Value="mainunit.pas"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <UsageCount Value="32"/>
+        <TopLine Value="97"/>
+        <CursorPos X="36" Y="210"/>
+      </Unit>
+      <Unit>
+        <Filename Value="irccore.pas"/>
+        <Loaded Value="True"/>
+        <UsageCount Value="32"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="376"/>
+        <CursorPos X="5" Y="446"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="mainunit.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="108" Column="32" TopLine="103"/>
+      </Position>
+      <Position>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="210" Column="36" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="irccore.pas"/>
+        <Caret Line="24" Column="19" TopLine="19"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

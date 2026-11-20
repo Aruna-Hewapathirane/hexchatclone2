@@ -1,0 +1,10 @@
+object MainForm: TMainForm
+  Left = 463
+  Height = 650
+  Top = 289
+  Width = 1000
+  Caption = 'PasChat HexChat Clone'
+  LCLVersion = '4.99.0.0'
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+end
